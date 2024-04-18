@@ -9,6 +9,7 @@ export function Header() {
         <ul className="flex space-x-4">
           <li>
             <a
+              href="https://github.com/EdilandoSaturnino/qrcode-generate"
               target="_blank"
               className="flex items-center gap-3 p-3 text-sky-300 ring-1 ring-sky-300 hover:opacity-80 active:ring cursor-pointer"
             >
