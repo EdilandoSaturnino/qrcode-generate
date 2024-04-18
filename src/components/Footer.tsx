@@ -16,7 +16,7 @@ export function Footer() {
         target="_blank"
         href="https://instagram.com/edilandosaturnino"
       >
-        @<span className="hidden sm:inline">EdilandoSaturnino</span>
+        @<span className="inline">EdilandoSaturnino</span>
       </a>
     </footer>
   );

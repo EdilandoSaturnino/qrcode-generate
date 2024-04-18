@@ -49,7 +49,7 @@ export function Home() {
         {qrCodeValue && (
           <>
             <div className="flex justify-center" ref={qrCodeRef}>
-              <QRCode value={qrCodeValue} size={350} viewBox={`0 0 256 256`} />
+              <QRCode value={qrCodeValue} viewBox={`0 0 256 256`} />
             </div>
             <div className="text-end mt-6">
               <button
